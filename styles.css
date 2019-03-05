@@ -1,7 +1,6 @@
 h1  {
 	color:white;
 	background-color : #073a8c;
-	
 	font-size: 70px;
 	font-family: 'UnifrakturCook', cursive;
 }
@@ -13,13 +12,11 @@ ul {
     background-color: lightgrey;
     padding: 10px
 }
-
 li {
     display: inline;
      margin-left: 20px;
      margin-right: 20px;
      font-family: 'Noticia Text', serif;
-
 }
 a:link {
   text-decoration: none;
@@ -31,16 +28,13 @@ div.gallery {
   float: left;
   width: 180px;
 }
-
 div.gallery:hover {
   border: 1px solid #777;
 }
-
 div.gallery img {
   width: 100%;
   height: auto;
 }
-
 div.desc {
   padding: 15px;
   text-align: center;
