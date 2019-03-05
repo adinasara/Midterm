@@ -11,13 +11,14 @@ padding:0;
 ul {
     background-color: lightgrey;
     padding: 10px
+    
 }
+
 li {
     display: inline;
      margin-left: 20px;
      margin-right: 20px;
-     font-family: 'Noticia Text', serif;
-}
+ }
 a:link {
   text-decoration: none;
   text-decoration-color: none;
