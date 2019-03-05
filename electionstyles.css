@@ -1,9 +1,12 @@
 h1  {
 	color:white;
 	background-color : #073a8c;
-	margin-left: 35px;
 	font-size: 70px;
 	font-family: 'UnifrakturCook', cursive;
+}
+*{
+margin:0;
+padding:0;
 }
 ul {
     background-color: lightgrey;
@@ -15,6 +18,10 @@ li {
     display: inline;
      margin-left: 20px;
      margin-right: 20px;
+     font-family: 'Noticia Text', serif;
+}
+a:link {
+  text-decoration: none;
 }
 div.gallery {
   margin: 5px;
